@@ -10,10 +10,10 @@
   <img align="center" alt="HTML" height="40" width="50" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor">
   <img align="center" alt="CSS" height="40" width="50" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">
   <img align="center" alt="Android" height="40" width="50" src="https://icongr.am/devicon/android-plain.svg?size=128&color=15710e">
-  <img align="center" alt="PHP" height="40" width="50" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor">
   <img align="center" alt="MySQL" height="40" width="50" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=000000">
- <img align="center" alt="Linux" height="40" width="50" src="https://icongr.am/devicon/linux-original.svg?size=128&color=000000">
-  <img align="right" alt="Gif" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
+  <img align="center" alt="Linux" height="40" width="50" src="https://icongr.am/devicon/linux-original.svg?size=128&color=000000">
+  <img align="center" alt="PHP" height="40" width="50" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor">
+  <img align="right" alt="Gif"  height="230" width="300" src="https://anatomia-papel-e-caneta.com/wp-content/uploads/2019/06/programador.gif">
 </div>
   
   ##
